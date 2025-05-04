@@ -2,8 +2,14 @@
     {
         "title": "我的主页",
         "link": "https://github.com/Komorebi-yaodong",
-        "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/komorebi_1746376419151.jpg",
+        "image": "https://avatars.githubusercontent.com/u/84176918?s=400&u=56057b03d99f2ef69cd2438f0271081dfa1728c9&v=4",
         "description": "我的Github主页，很高兴认识你！"
+    },
+    {
+        "title": "ZYL的主页",
+        "link": "https://github.com/ZYLyldngmc",
+        "image": "https://avatars.githubusercontent.com/u/181371301?v=4",
+        "description": "ZYL的Github主页，很高兴认识你！"
     },
     {
         "title": "GuessGame",
