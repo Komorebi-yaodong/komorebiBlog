@@ -1,8 +1,14 @@
 [
+  
+  {
+    "title": "Hello MPC",
+    "time": "2025-05-04",
+    "file": "posts/zyl.md"
+  },
   {
     "title": "Hello World",
     "time": "2025-05-04",
     "file": "posts/1.md",
-    "image": "./figures/1.png"
+    "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/69_1746376289208.png"
   }
 ]

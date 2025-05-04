@@ -2,25 +2,25 @@
     {
         "title": "我的主页",
         "link": "https://github.com/Komorebi-yaodong",
-        "image": "./Linkfigures/komorebi.jpg",
+        "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/komorebi_1746376419151.jpg",
         "description": "我的Github主页，很高兴认识你！"
     },
     {
         "title": "GuessGame",
         "link": "guessgame.001412.xyz",
-        "image": "./Linkfigures/guessgame.png",
+        "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/guessgame_1746376417965.png",
         "description": "基于AI的猜猜看小游戏，你能猜到AI在扮演谁吗？"
     },
     {
         "title": "Gemini",
         "link": "gemini.001412.xyz",
-        "image": "./Linkfigures/gemini.png",
+        "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/gemini_1746376415481.png",
         "description": "支持gemini的实时语音，还能视频哦"
     },
     {
         "title": "TTS-OpenAI",
         "link": "gptts.001412.xyz",
-        "image": "./Linkfigures/gptts.png",
+        "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/gptts_1746376416774.png",
         "description": "拿来了OpenAI的免费TTS，还能指定各种预期"
     }
 ]
