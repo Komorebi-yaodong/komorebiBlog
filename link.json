@@ -19,7 +19,7 @@
     },
     {
         "title": "Paper-Burner",
-        "link": "paper-burner.001412.xyz/",
+        "link": "paper-burner.001412.xyz",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505145824316_1746428304337.png",
         "description": "PDF转Markdown/翻译，号称最强OCR的Mistral加持，对公式及其友好！"
     },
@@ -37,19 +37,19 @@
     },
     {
         "title": "Utools-Anywhere",
-        "link": "https://www.u-tools.cn/plugins/detail/Anywhere/",
+        "link": "https://www.u-tools.cn/plugins/detail/Anywhere",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505005641512_1746377801520.png",
         "description": "随时随地召唤AI，快捷AI助手"
     },
     {
         "title": "Utools-AI绘画",
-        "link": "https://www.u-tools.cn/plugins/detail/AI%E7%BB%98%E7%94%BB/",
+        "link": "https://www.u-tools.cn/plugins/detail/AI%E7%BB%98%E7%94%BB",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/1746377499742_1746377499752.png",
         "description": "基于pollinations.ai的免费AI生图"
     },
     {
         "title": "Utools-WhisperTTS",
-        "link": "https://www.u-tools.cn/plugins/detail/WhisperTTS/",
+        "link": "https://www.u-tools.cn/plugins/detail/WhisperTTS",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505005252490_1746377572498.png",
         "description": "便捷的文本转语音、语音转文本，甚至可以修剪音频"
     }
