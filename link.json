@@ -18,6 +18,12 @@
         "description": "基于AI的猜猜看小游戏，你能猜到AI在扮演谁吗？"
     },
     {
+        "title": "Paper-Burner",
+        "link": "paper-burner.001412.xyz/",
+        "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505145824316_1746428304337.png",
+        "description": "PDF转Markdown/翻译，号称最强OCR的Mistral加持，对公式及其友好！"
+    },
+    {
         "title": "Gemini-Realtime",
         "link": "gemini.001412.xyz",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/gemini_1746376415481.png",
