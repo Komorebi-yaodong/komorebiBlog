@@ -22,5 +22,17 @@
     "time": "2025-05-05",
     "file": "posts/3.md",
     "image":"https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505192334397_1746444214441.png"
+  },
+  {
+    "title": "【Utools插件】WhisperTTS",
+    "time": "2025-05-06",
+    "file": "posts/4.md",
+    "image":"https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250506190145738_1746529305781.png"
+
+  },
+  {
+    "title": "自适应MPC",
+    "time": "2025-05-06",
+    "file": "posts/自适应MPC.md"
   }
 ]
