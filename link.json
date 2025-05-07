@@ -3,54 +3,63 @@
         "title": "我的主页",
         "link": "https://github.com/Komorebi-yaodong",
         "image": "https://avatars.githubusercontent.com/u/84176918?s=400&u=56057b03d99f2ef69cd2438f0271081dfa1728c9&v=4",
-        "description": "我的Github主页，很高兴认识你！"
+        "description": "我的Github主页，很高兴认识你！",
+        "tag":["个人主页"]
     },
     {
         "title": "ZYL的主页",
         "link": "https://github.com/ZYLyldngmc",
         "image": "https://avatars.githubusercontent.com/u/181371301?v=4",
-        "description": "ZYL的Github主页，很高兴认识你！"
+        "description": "ZYL的Github主页，很高兴认识你！",
+        "tag":["个人主页"]
     },
     {
         "title": "GuessGame",
         "link": "guessgame.001412.xyz",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/guessgame_1746376417965.png",
-        "description": "基于AI的猜猜看小游戏，你能猜到AI在扮演谁吗？"
+        "description": "基于AI的猜猜看小游戏，你能猜到AI在扮演谁吗？",
+        "tag":["Website","Game"]
     },
     {
         "title": "Paper-Burner",
         "link": "paper-burner.001412.xyz",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505145824316_1746428304337.png",
-        "description": "PDF转Markdown/翻译，号称最强OCR的Mistral加持，对公式及其友好！"
+        "description": "PDF转Markdown/翻译，号称最强OCR的Mistral加持，对公式及其友好！",
+        "tag":["Website","Tool","AI"]
     },
     {
         "title": "Gemini-Realtime",
         "link": "gemini.001412.xyz",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/gemini_1746376415481.png",
-        "description": "支持gemini的实时语音，还能视频哦"
+        "description": "支持gemini的实时语音，还能视频哦",
+        "tag":["Website","Tool","AI"]
     },
     {
         "title": "TTS-OpenAI",
         "link": "gptts.001412.xyz",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/gptts_1746376416774.png",
-        "description": "拿来了OpenAI的免费TTS，还能指定各种语气"
+        "description": "拿来了OpenAI的免费TTS，还能指定各种语气",
+        "tag":["Website","Tool","AI","TTS"]
     },
     {
         "title": "Utools-Anywhere",
         "link": "https://www.u-tools.cn/plugins/detail/Anywhere",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505005641512_1746377801520.png",
-        "description": "随时随地召唤AI，快捷AI助手"
+        "description": "随时随地召唤AI，快捷AI助手",
+        "tag":["UTools","AI"]
     },
     {
         "title": "Utools-AI绘画",
         "link": "https://www.u-tools.cn/plugins/detail/AI%E7%BB%98%E7%94%BB",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/1746377499742_1746377499752.png",
-        "description": "基于pollinations.ai的免费AI生图"
+        "description": "基于pollinations.ai的免费AI生图",
+        "tag":["UTools","AI","AI绘画"]
     },
     {
         "title": "Utools-WhisperTTS",
         "link": "https://www.u-tools.cn/plugins/detail/WhisperTTS",
         "image": "https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250505005252490_1746377572498.png",
-        "description": "便捷的文本转语音、语音转文本，甚至可以修剪音频"
+        "description": "便捷的文本转语音、语音转文本，甚至可以修剪音频",
+        "tag":["UTools","AI","TTS","STT"]
     }
 ]
