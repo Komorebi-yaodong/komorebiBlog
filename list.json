@@ -7,12 +7,6 @@
     "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/desktop/69.77drs572ns.webp"
   },
   {
-    "title": "Hello MPC",
-    "time": "2025-05-04",
-    "file": "posts/zyl.md",
-    "image":"https://zylyldngmc.github.io/picx-images-hosting/Papers/image.9kgb1ptggr.webp"
-  },
-  {
     "title": "AI绘画",
     "time": "2025-05-05",
     "file": "posts/2.md",
@@ -36,11 +30,6 @@
     "image":"https://fastly.jsdelivr.net/gh/Komorebi-yaodong/picx-images-hosting@master/2025-05/250506190145738_1746529305781.png",
     "tag":["UTools","AI","TTS","STT"]
 
-  },
-  {
-    "title": "自适应MPC",
-    "time": "2025-05-06",
-    "file": "posts/自适应MPC.md"
   },
   {
     "title":"AI提示词记录",
