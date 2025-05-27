@@ -17,10 +17,10 @@
 ### 2. 添加/修改文章
 
 1.  **创建/编辑 Markdown 文件**:
-    *   在内容仓库的 `posts/` 目录下创建新的 `.md` 文件，或编辑已有的文章。
+    *   在内容仓库的 `Posts/` 目录下创建新的 `.md` 文件，或编辑已有的文章。
     *   文章内的图片引用：
         *   可以直接使用图片文件名，如 `my-image.png`。系统会自动尝试从 `Figures/` 目录加载。
-        *   可以使用相对路径，如 `./subfolder/my-image.png` (相对于当前文章所在的 `posts/` 目录下的子目录)。
+        *   可以使用相对路径，如 `./subfolder/my-image.png` (相对于当前文章所在的 `Posts/` 目录下的子目录)。
         *   也可以使用从仓库根目录开始的绝对路径，如 `/Figures/specific/my-image.png`。
         *   或者直接使用完整的图片 URL。
 2.  **更新文章列表 `list.json`**:
@@ -93,7 +93,7 @@
 ├── author.json       // 作者信息
 ├── albums.json       // 相册集列表
 ├── background.json   // 动态背景图片列表
-├── posts/            // 存放 .md 文章文件
+├── Posts/            // 存放 .md 文章文件
 │   ├── my-first-post.md
 │   └── another-topic.md
 ├── Figures/          // 存放所有图片资源
