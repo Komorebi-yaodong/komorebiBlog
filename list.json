@@ -16,14 +16,6 @@
     "tag":["UTools","Web","AI","AI绘画"]
   },
   {
-    "title": "Anywhere",
-    "time": "2025-05-05",
-    "file": "posts/3.md",
-    "description": "随时随地地召唤AI，便捷调用AI实现多种功能，例如划词翻译、变量名命名、OCR、AI高情商回复...",
-    "image":"https://github.001412.xyz/Komorebi-yaodong/picx-images-hosting/raw/master/2025-05/250505192334397_1746444214441.png",
-    "tag":["UTools","AI"]
-  },
-  {
     "title": "WhisperTTS",
     "time": "2025-05-06",
     "file": "posts/4.md",
@@ -34,10 +26,18 @@
   },
   {
     "title":"AI提示词记录",
-    "time":"2025-05-10",
+    "time":"2025-06-17",
     "file":"posts/5.md",
     "description": "记录一下常用的提示词吧，可以搭配Anywhere，包含多种类型，如工具、玩具、角色扮演...",
     "image":"https://github.001412.xyz/Komorebi-yaodong/picx-images-hosting/raw/master/2025-05/多彩多样，AI，wonderful-prompt.26lp3zx911.webp",
     "tag":["AI"]
+  },
+  {
+    "title": "Anywhere",
+    "time": "2025-06-18",
+    "file": "posts/3.md",
+    "description": "随时随地地召唤AI，便捷调用AI实现多种功能，例如划词翻译、变量名命名、OCR、文件总结...",
+    "image":"https://github.001412.xyz/Komorebi-yaodong/picx-images-hosting/raw/master/2025-05/250505192334397_1746444214441.png",
+    "tag":["UTools","AI"]
   }
 ]
