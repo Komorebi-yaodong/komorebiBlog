@@ -1,12 +1,5 @@
 [
     {
-        "title": "我的主页",
-        "link": "https://github.com/Komorebi-yaodong",
-        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/komorebi_1746376419151.jpg",
-        "description": "我的Github主页，很高兴认识你！",
-        "tag":["个人主页"]
-    },
-    {
         "title": "MultiAI",
         "link": "multiai.001412.xyz",
         "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/favicon.iccf2suc9.webp",
@@ -53,13 +46,6 @@
         "link": "text.001412.xyz",
         "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/1747650620982.sz6coplac.webp",
         "description": "基于人工智能的文章校对工具，帮助您快速检查和纠正错别字、同音词误用、语法错误等问题。",
-        "tag":["Web","AI"]
-    },
-    {
-        "title": "Gemini-Realtime",
-        "link": "gemini.001412.xyz",
-        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/gemini.6wqyf4s29e.webp",
-        "description": "支持gemini的实时语音，还能视频哦",
         "tag":["Web","AI"]
     },
     {
