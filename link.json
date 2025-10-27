@@ -2,77 +2,77 @@
     {
         "title": "MultiAI",
         "link": "multiai.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/favicon.iccf2suc9.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/favicon.iccf2suc9.webp",
         "description": "多角色AI交流，超多角色扮演同框交流！deepseek-v3就已经能达到不错效果",
         "tag":["Web","AI"]
     },
     {
         "title": "AI海报图片生成",
         "link": "poster.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/image.8z6rc5covl.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/image.8z6rc5covl.webp",
         "description": "AI生成海报",
         "tag":["Web","AI"]
     },
     {
         "title": "僵尸围攻",
         "link": "zombie.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/demo.70aksdyl6e.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/demo.70aksdyl6e.webp",
         "description": "适合挂机的打僵尸小游戏",
         "tag":["Web","Game"]
     },
     {
         "title": "GuessGame",
         "link": "guessgame.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/guessgame.41ya9ccvhv.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/guessgame.41ya9ccvhv.webp",
         "description": "基于AI的猜猜看小游戏，你能猜到AI在扮演谁吗？",
         "tag":["Web","Game"]
     },
     {
         "title": "Paper-Burner",
         "link": "paper-burner.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/250505145824316_1746428304337.png",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/250505145824316_1746428304337.png",
         "description": "PDF转Markdown/翻译，号称最强OCR的Mistral加持，对公式及其友好！",
         "tag":["Web","AI"]
     },
     {
         "title": "AI绘画",
         "link": "draw.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/1_1746441996915.2obr5c4wes.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/1_1746441996915.2obr5c4wes.webp",
         "description": "基于Pollinations.ai的AI绘画，免费体验 AI 绘图！",
         "tag":["Web","AI","AI绘画"]
     },
     {
         "title": "文本校对",
         "link": "text.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/1747650620982.sz6coplac.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/1747650620982.sz6coplac.webp",
         "description": "基于人工智能的文章校对工具，帮助您快速检查和纠正错别字、同音词误用、语法错误等问题。",
         "tag":["Web","AI"]
     },
     {
         "title": "TTS-OpenAI",
         "link": "gptts.001412.xyz",
-        "image": "https://github-image.001412.xyz/2025-05/gptts.7w71sautf7.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/gptts.7w71sautf7.webp",
         "description": "拿来了OpenAI的免费TTS，还能指定各种语气",
         "tag":["Web","AI","TTS"]
     },
     {
         "title": "Utools-Anywhere",
         "link": "https://www.u-tools.cn/plugins/detail/AI%20Anywhere",
-        "image": "https://github-image.001412.xyz/2025-05/1.3d50pcz6yl.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/1.3d50pcz6yl.webp",
         "description": "随时随地召唤AI，快捷AI助手",
         "tag":["UTools","AI"]
     },
     {
         "title": "Utools-AI绘画",
         "link": "https://www.u-tools.cn/plugins/detail/AI%E7%BB%98%E7%94%BB",
-        "image": "https://github-image.001412.xyz/2025-05/2.1sf9pvztsd.webp",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/2.1sf9pvztsd.webp",
         "description": "基于pollinations.ai的免费AI生图",
         "tag":["UTools","AI","AI绘画"]
     },
     {
         "title": "Utools-WhisperTTS",
         "link": "https://www.u-tools.cn/plugins/detail/WhisperTTS",
-        "image": "https://github-image.001412.xyz/2025-05/3_1746528963110.png",
+        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/3_1746528963110.png",
         "description": "便捷的文本转语音、语音转文本，甚至可以修剪音频",
         "tag":["UTools","AI","TTS","STT"]
     }
