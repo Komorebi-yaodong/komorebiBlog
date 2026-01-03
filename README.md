@@ -1,6 +1,6 @@
 ## Komorebi's Blog
 
-[Komorebi&#39;s Blog](https://komorebi.001412.xyz)
+[Komorebi&#39;s Blog](https://komorebi.141277.xyz)
 
 > A blog for sharing my thoughts and experiences.
 > 当前为**内容仓库**，配合 `https://github.com/Komorebi-yaodong/komorebiBlog-frontend`使用
