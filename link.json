@@ -7,13 +7,6 @@
         "tag":["Web","AI"]
     },
     {
-        "title": "僵尸围攻",
-        "link": "zombie.141277.xyz",
-        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/demo.70aksdyl6e.webp",
-        "description": "适合挂机的打僵尸小游戏",
-        "tag":["Web","Game"]
-    },
-    {
         "title": "GuessGame",
         "link": "guessgame.141277.xyz",
         "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/guessgame.41ya9ccvhv.webp",
@@ -21,25 +14,11 @@
         "tag":["Web","Game"]
     },
     {
-        "title": "AI绘画",
-        "link": "draw.141277.xyz",
-        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/1_1746441996915.2obr5c4wes.webp",
-        "description": "基于Pollinations.ai的AI绘画，免费体验 AI 绘图！",
-        "tag":["Web","AI","AI绘画"]
-    },
-    {
         "title": "Utools-Anywhere",
         "link": "https://www.u-tools.cn/plugins/detail/AI%20Anywhere",
         "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/1.3d50pcz6yl.webp",
         "description": "随时随地召唤AI，快捷AI助手",
         "tag":["UTools","AI"]
-    },
-    {
-        "title": "Utools-AI绘画",
-        "link": "https://www.u-tools.cn/plugins/detail/AI%E7%BB%98%E7%94%BB",
-        "image": "https://Komorebi-yaodong.github.io/picx-images-hosting/2025-05/2.1sf9pvztsd.webp",
-        "description": "基于pollinations.ai的免费AI生图",
-        "tag":["UTools","AI","AI绘画"]
     },
     {
         "title": "Utools-WhisperTTS",
